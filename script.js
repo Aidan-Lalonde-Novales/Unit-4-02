@@ -13,13 +13,13 @@ function myFunction2 () {
 // Function that changes the image.
 
 function switchOn () {
-  document.getElementById('myImage').src = 'images/switchon.jpg'
+  document.getElementById('myimage').src = 'images/switchon.jpg'
 }
 
 // Function that changes the image, again.
 
 function switchOff () {
-  document.getElementById('myImage').src = 'images/switchoff.jpg'
+  document.getElementById('myimage').src = 'images/switchoff.jpg'
 }
 
 // Function that changes the background color.
