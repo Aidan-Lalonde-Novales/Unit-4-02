@@ -1,3 +1,9 @@
+/* Two simple styling attributes */
+
 .background {
   background-color: azure;
+}
+
+#myImage {
+  width:200px;
 }
